@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailwind-landing-page/static/css/main.92ffd7e8.css",
+    "main.js": "/tailwind-landing-page/static/js/main.9dc65a58.js",
+    "index.html": "/tailwind-landing-page/index.html",
+    "main.92ffd7e8.css.map": "/tailwind-landing-page/static/css/main.92ffd7e8.css.map",
+    "main.9dc65a58.js.map": "/tailwind-landing-page/static/js/main.9dc65a58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ffd7e8.css",
+    "static/js/main.9dc65a58.js"
+  ]
+}

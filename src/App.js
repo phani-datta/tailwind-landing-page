@@ -1,10 +1,9 @@
 import React from "react";
-import SideBar from "./SideBar";
 
 function App() {
   return (
     <div className="flex">
-      <SideBar />
+      <h1>Hello</h1>
     </div>
   );
 }
